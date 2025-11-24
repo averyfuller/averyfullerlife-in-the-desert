@@ -1,0 +1,22 @@
+/* Minimal sanity check */
+body {
+  background: #F4A261;
+  color: #3B1F0F;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+main {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+img {
+  display: block;
+  margin: 1rem auto;
+  border-radius: 8px;
+}
+h1, h2, h3 {
+  color: #2A5934;
+  font-weight: bold;
+}
